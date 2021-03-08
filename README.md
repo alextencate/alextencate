@@ -1,11 +1,15 @@
-## Hi there, I'm Alex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Alex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 * 📚 student @ [Hogeschool van Amsterdam](https://www.hva.nl/)
+* 💻 Coding in my free time
+
+## You can reach me at
+
 * 🌐 [www.tencate.io](https://www.tencate.io/)
 * ✉️ [alex@tencate.io](mailto:alex@tencate.io?subject=[GitHub]%20Source%20Han%20Sans)
       
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextencate&theme=<THEME_NAME>" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alextencate&theme=<THEME_NAME>" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?alextencate&theme=<THEME_NAME>" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?alextencate&theme=<THEME_NAME>" />
 
 <!--
 **alextencate/alextencate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
