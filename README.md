@@ -1,7 +1,8 @@
-### Hi there, I'm  👋
+### Hi there, I'm Alex 👋
 
-📚 
-[www.tencate.io](https://www.tencate.io/).
+📚 student @ [Hogeschool van Amsterdam](https://www.hva.nl/)
+🌐 [www.tencate.io](https://www.tencate.io/)
+      
 
 
 <!--
