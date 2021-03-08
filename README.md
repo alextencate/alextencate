@@ -6,7 +6,7 @@
       
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextencate&theme=<THEME_NAME>" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alextencate&theme=<THEME_NAME>" />
-<A HREF="mailto:gebruiker@provider.nl">Webmaster</A>
+
 <!--
 **alextencate/alextencate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
