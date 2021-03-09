@@ -1,6 +1,6 @@
 # Hi there, I'm Alex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-* 📚 student @ [Hogeschool van Amsterdam](https://www.hva.nl/)
+* 📚 Student Business & IT Management @ [Hogeschool van Amsterdam](https://www.hva.nl/)
 * 💻 Coding in my free time
 
 ## You can reach me at
